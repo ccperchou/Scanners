@@ -1,7 +1,7 @@
 # Script Python 
 # clement perchais 30/5/2023
 # input : Delay and number of step 
-
+#Test results:  time delay:10 & steps forward 500
 import RPi.GPIO as GPIO
 import time
 
