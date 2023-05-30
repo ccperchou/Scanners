@@ -1,3 +1,4 @@
+
 # Script Python 
 # clement perchais 30/5/2023
 # input : Delay and number of step 
@@ -49,6 +50,21 @@ def backwards(delay, steps):
         for j in reversed(range(StepCount)):
             setStep(Seq[j][0], Seq[j][1], Seq[j][2], Seq[j][3])
             time.sleep(delay)
+def moteur_360(): 
+	print("-----Rotation Starts-----")
+	forward(int(10) / 1000.0, int(500))
+	print("-----Rotation Ends------")
+	print("angle : 360")
+	print("------------------------------")
+
+
+def moteur_180():
+	print(" -----Rotation Starts -----")
+	forward(int(10) / 1000.0, int(250))
+	print("-----Rotation Ends-------")
+	print("angle :180  ")
+	print("------------------------------")
+
 
 if __name__ == '__main__':
     while True:
