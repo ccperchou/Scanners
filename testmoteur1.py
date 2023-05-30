@@ -1,3 +1,7 @@
+# Script Python 
+# clement perchais 30/5/2023
+# input : Delay and number of step 
+
 import RPi.GPIO as GPIO
 import time
 
