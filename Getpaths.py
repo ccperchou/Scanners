@@ -18,9 +18,9 @@ def get_image_paths(folder_path):
     return image_paths
 
 # Exemple d'utilisation
-folder_path = ''
-image_paths = get_image_paths(folder_path)
+#folder_path ='/home/lisbonne/Test Python/captures'
+#image_paths = get_image_paths(folder_path)
 
 # Affichage des chemins des images
-for image_path in image_paths:
-    print(image_path)
+#for image_path in image_paths:
+#    print(image_path)
