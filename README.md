@@ -2,9 +2,7 @@
 
 Projet de Scanner de plante 
 
-Folder: Test Python
- 
-Files: - Test moteurs
+Ce projet intitulé Scanner de plante avec une rasperry à pour objectif d’obtenir un maillage 3D  d’une plante à partir d’un scanner rasperry. Ce projet se décompose en différentes étapes que sont l’acquisition d’image, la reconstruction du modèle 3D à partir d’un modèle 2D à partir d’une solution de points d’intérêt.  L’ensemble du projet est codé en python en utilisant des bibliothèques tel que OpenCV, Panda, SIFT..
 
 
 Présentation du projet (FR):
