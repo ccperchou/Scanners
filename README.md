@@ -21,7 +21,6 @@ Ce projet intitulé Scanner de plante avec une rasperry à pour objectif d’obt
 
 # Deposit Git:
 
-![qr_code.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f8f4f49-d0b2-42b5-a313-cd1d2e17b1bf/qr_code.png)
 
 Lien : https://github.com/ccperchou/Scanners
 
